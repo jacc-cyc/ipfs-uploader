@@ -1,0 +1,15 @@
+{
+  "main.css": "/ipfs-uploader/static/css/main.923747ef.chunk.css",
+  "main.js": "/ipfs-uploader/static/js/main.5afd8cfe.chunk.js",
+  "main.js.map": "/ipfs-uploader/static/js/main.5afd8cfe.chunk.js.map",
+  "static/css/1.02d6c224.chunk.css": "/ipfs-uploader/static/css/1.02d6c224.chunk.css",
+  "static/js/1.5cceaca0.chunk.js": "/ipfs-uploader/static/js/1.5cceaca0.chunk.js",
+  "static/js/1.5cceaca0.chunk.js.map": "/ipfs-uploader/static/js/1.5cceaca0.chunk.js.map",
+  "runtime~main.js": "/ipfs-uploader/static/js/runtime~main.0851b7c5.js",
+  "runtime~main.js.map": "/ipfs-uploader/static/js/runtime~main.0851b7c5.js.map",
+  "static/css/main.923747ef.chunk.css.map": "/ipfs-uploader/static/css/main.923747ef.chunk.css.map",
+  "static/css/1.02d6c224.chunk.css.map": "/ipfs-uploader/static/css/1.02d6c224.chunk.css.map",
+  "index.html": "/ipfs-uploader/index.html",
+  "precache-manifest.535a00ff44e62494f0c6b937f4883caa.js": "/ipfs-uploader/precache-manifest.535a00ff44e62494f0c6b937f4883caa.js",
+  "service-worker.js": "/ipfs-uploader/service-worker.js"
+}
